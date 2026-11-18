@@ -1,5 +1,9 @@
 # InverseCanopy
 
+> **Status:** working — published on PyPI as v0.0.22 (tests not re-run on 2026-11-18).
+> **Fate:** stays — the "train" component; later uses fuzzybits as its forward model (fuzzybit-org/fuzzybits#47).
+> **What works today:** back-fitting event-tree branch probabilities to target end-state frequencies (TensorFlow), standalone.
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10888233.svg)](https://doi.org/10.5281/zenodo.10888233)
 
 Back-fit conditional/functional event probability distributions in an event tree to match target end-state
