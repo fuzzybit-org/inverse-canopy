@@ -61,7 +61,7 @@ dev = [
 
 [project.urls]
 Homepage = "https://openpra.org"
-Repository = "https://github.com/openpra-org/inverse-canopy"
+Repository = "https://github.com/fuzzybit-org/inverse-canopy"
 Documentation = "https://docs.openpra.org"
 
 
